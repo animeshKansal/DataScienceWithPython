@@ -1,12 +1,10 @@
 
-Assignment 1
-
-Please use the Pandas and Numpy libraries to answer the question I posed in the document.  You will create a markdown cell with the question in it and then answer the question in the next cell.  
+# Problem Statement: Please use the Pandas and Numpy libraries to answer the question I posed in the document.  You will create a markdown cell with the question in it and then answer the question in the next cell.  
 
 1)	Load in the appropriate csv file as a pandas dataframe (batting.csv)
 2)	Print out the dimensions and info about the dataframe you just created
 
-For next part I am going to ask you a series of question, for some I am going to want to simply see a number.  For others I will want to see the entire dataframe.  I will make it very clear which is which.
+# For next part I am going to ask you a series of question, for some I am going to want to simply see a number.  For others I will want to see the entire dataframe.  I will make it very clear which is which.
 
 3)	How many players have hit 40 or more HRs in one single season? (Number only)
 4)	How many players have hit more than 600 HRs for their career? (Dataframe)
