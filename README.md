@@ -12,9 +12,9 @@ Specifics include:
 6. Web Page Screen Scraping / Parsing HTML (Beautiful Soup)
 7. Interfacing Python with Relational Databases using SQL (SQLAlchemy)
 8. Machine Learning
-      o from libraries (Scikit-Learn)
-      o from source code (since Scikit-Learn is open source, we will study the actualsource code for several common machine           learning algorithms) 
-      o Scale Out (brief look at Spark MLlib)
+      a. from libraries (Scikit-Learn)
+      b. from source code (since Scikit-Learn is open source, we will study the actualsource code for several common machine           learning algorithms) 
+      c. Scale Out (brief look at Spark MLlib)
 9. Natural Language Processing (NLTK)
 10. Deep Learning / Neural Networks (TensorFlow)
 11. Programming Labs (in class)
