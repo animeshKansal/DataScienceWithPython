@@ -1,8 +1,8 @@
 # BUAN 6340 – Programming for Data Science ( Python )
 Spring 2018
-
+_______________________________
 This course covers many aspects of programming for data science and analytics, including syntax, handling data, data visualization, and implementation of statistical analysis models. The course will be taught using Python language
-
+_______________________________
 Specifics include:
 1. Python Programming Fundamentals
 2. Graph / Network Analytics (NetworkX)
