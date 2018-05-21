@@ -1,4 +1,4 @@
 # Other Regression Methods
-Support Vector Regression (SVR)
-Decision Tree Regression
-Random  OForest Regression
+1. Support Vector Regression (SVR)
+2. Decision Tree Regression
+3. Random Forest Regression
